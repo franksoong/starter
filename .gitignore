@@ -10,3 +10,7 @@ dist-intermediate
 
 # backup files
 *.org
+
+
+# log files
+*.log

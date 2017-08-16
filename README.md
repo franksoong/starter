@@ -2,6 +2,9 @@
 
 This starter kit provides you with the code and conventions you need to get straight into building your React/Redux based app.
 
+## Site demo address
+https://franksoong.github.io/starter
+
 ## Happiness is six lines away
 
 *Prerequisites: node.js and git*
